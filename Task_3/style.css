@@ -1,0 +1,59 @@
+.img_div{
+
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 60px;
+
+}
+
+.close_btn{
+    text-align: right;
+    margin: 0px;
+ 
+    cursor: pointer;
+}
+
+.close_btn_dis{
+
+    display: none;
+}
+.large{
+
+  width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+.center_div{
+
+    position: absolute;
+    z-index: 2;
+    top: 7px;
+    left: 40%;
+    display: none;
+}
+
+.center_img{
+
+    width: 260px;
+    
+  
+}
+
+
+    
+
+.overlay{
+
+    background-color: black;
+ width: 100px;
+} */
